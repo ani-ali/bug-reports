@@ -13,3 +13,5 @@ When clicking on the `CTRL + CLICK` it didn't navigates me to the browser becaus
 It navigates me to the browser when I `CTRL + CLICK` on someone chat.  
 ### Discord Client Info
 Desktop
+
+![Screenshot of a BUG.](https://myoctocat.com/assets/images/base-octocat.svg)
