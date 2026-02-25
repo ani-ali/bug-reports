@@ -14,4 +14,4 @@ It navigates me to the browser when I `CTRL + CLICK` on someone chat.
 ### Discord Client Info
 Desktop
 
-![Screenshot of a BUG.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a BUG.]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/ani-ali/bug-reports/refs/heads/main/discord/2026-02-25_12-29.png))
