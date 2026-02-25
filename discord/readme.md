@@ -1,4 +1,4 @@
-# Discord software navigating users to browsers
+# Discord software navigating users to browsers [SOLVED]
 I've found a bug in your windows software maybe same in the MacOS. When i try use discord for my browser and click on someone chat with CTRL+Click it opens a new tab for that person but when i do that same thing in windows discord software it navigates me to the browser.
 
 ### Steps to Reproduce
